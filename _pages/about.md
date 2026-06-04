@@ -8,6 +8,8 @@ redirect_from:
 ---
 <div style="overflow: auto; margin-bottom: 2rem;">
 
+<img src="/images/kevin-headshot.jpg" alt="Kevin Chen" width="220" style="float: right; margin-left: 1.5rem; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+
 <p>Hi, I’m <strong>Kevin Chen</strong>. I am currently a Yale MPP student set to graduate in 2027. My interests and goals as a data scientist and policy analyst sit at the intersection of <strong>AI governance</strong>, <strong>U.S.–China relations</strong>, and <strong>emerging tech regulation</strong>.</p>
 
 <p>I’m passionate about shaping how the U.S. engages with artificial intelligence in national security, and I bring experience in:</p>
