@@ -10,37 +10,47 @@ redirect_from:
 <div style="overflow: auto; margin-bottom: 2rem;">
 <img src="/images/kevin-headshot.jpg" alt="Kevin Chen" width="220" style="float: right; margin-left: 1.5rem; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
 
-<p>Hi, I’m <strong>Kevin Chen</strong>. I am a researcher and Master in Public Policy (MPP) candidate at the Yale Jackson School of Global Affairs (Class of 2027), specializing in the intersection of advanced technology, national security, and global governance.</p>
+<p>Hey everyone! I work on AI strategy, with particular attention to how frontier capabilities are reshaping the strategic relationships in the Pacific and how the U.S. is trying to navigate these issues on the security end. I am a Master in Public Policy candidate at the Yale Jackson School of Global Affairs, affiliated with the Schmidt Program on Artificial Intelligence, Emerging Technologies, and National Power, and I serve as Editor-in-Chief of the <em>Yale Journal of International Affairs</em>.</p>
 
-<p>My work bridges the gap between technical machine learning and strategic policy. With over three years of experience building and securing high-consequence AI systems within the U.S. intelligence community, my current research focuses on technical CBRN guardrails, frontier model alignment, and great power competition between the U.S. and China.</p>
+<p>Most of my research sits at a seam that tends to be left unattended, between the people who build frontier systems and the people who write rules for them. I came to policy from the technical side after several years as a machine learning engineer and data scientist in the U.S. national security community, and I try to write for readers on both sides of that divide.</p>
 </div>
 
-## Research & Professional Focus
-* **AI Governance & Hardware Compute:** Evaluating international safety guardrails, technical verification mechanisms, and the trade-offs of open-source model dissemination.
-* **Frontier Model Security:** Developing robust evaluation frameworks to mitigate dual-use chemical, biological, radiological, and nuclear (CBRN) threats.
-* **Information Integrity:** Analyzing adversarial robustness, model alignment across multilingual datasets, and foreign information manipulation.
+## Research
+My interests run wider than my published work, and I am always glad to hear from people working on adjacent problems. Three streams cover most of what I am doing now.
+
+* I work on **compute and hardware governance**, examining technical verification mechanisms for international access frameworks and the trade-offs created by open-weight model release. This is currently a policy paper in progress with researchers at OpenAI.
+* I study **AI-enabled information manipulation** as the subject of my thesis at Yale, using multilingual natural language processing to identify coordinated inauthentic behavior. The project culminates in an October research visit to Taipei with Doublethink Lab and Taiwan AI Labs. It also shapes the SPAR project I am co-mentoring this fall on Taiwan's position under transformative AI, which is open to mentee applications through 18 August if you would like to work on it with me.
+* I am building methods for the **evaluation and auditing of frontier models in agentic settings**, including the limits of post-hoc log review as a safeguard and how model behavior shifts across languages and extended interaction horizons. This is my work at GovAI this summer, which I am writing up for a NeurIPS workshop.
+
+Across all three I have grown more concerned about epistemic security than about the chemical and biological risk pathways that dominate current frontier safety debates, so if you are into epistemic risk and keeping human truth in AI please reach out!
 
 ---
 
-## Current Roles
-* **Research Fellow** | Centre for the Governance of AI (GovAI) — *Conducting technical research on CBRN dual-use risks and biosecurity evaluation frameworks.*
-* **Research Assistant (Collaborator)** | OpenAI — *Co-authoring policy research on advanced AI access frameworks and hardware/compute governance.*
-* **Editor-in-Chief** | Yale Journal of International Affairs (YJIA) — *Supervising high-level review of technical and China-focused submissions.*
-* **Graduate Research Assistant** | Council on Foreign Relations — *Investigating U.S.-China technology competition for a forthcoming book project on AI and international security.*
-* **Teaching Fellow** | Yale University — *Facilitating simulations for "Intelligence, Espionage, and American Foreign Policy" and "Managing the Clean Energy Transition."*
+## Current Affiliations
 
-## Background & Early Career
-Prior to Yale, I served as a Data Scientist and AI/ML Engineer for the **Central Intelligence Agency (CIA)** within the Directorate of Digital Innovation, where I implemented AI assurance frameworks and adversarial testing for Mandarin-language models using Python and PyTorch. Before that, I worked as a Data Analyst for the **Federal Bureau of Investigation (FBI)**, engineering SQL-based data pipelines to optimize resource analysis for over 30,000 employees. 
+**Centre for the Governance of AI (GovAI)**, Summer Research Fellow, where I am building an empirical framework for measuring how reliably auditor models detect misaligned behavior as interaction horizons lengthen, benchmarked across Western frontier models and regional open-weight architectures.
 
-I hold a B.A. in Quantitative Social Science (Honors) from **Dartmouth College** and completed a specialized study abroad program in stablecoins, DLT, and international trade at **Sciences Po Paris**.
+**Council on Foreign Relations**, Graduate Research Assistant to Adjunct Senior Fellow Gordon Goldstein, supporting an upcoming project on recursive self-improvement and international security.
+
+**Doublethink Lab**, Research Collaborator on foreign information manipulation and interference in the Taiwan Strait, including an in-person data sprint in Taipei this autumn.
+
+**California Governor's Office of Emergency Services**, Research Collaborator, translating the state's SB 53 frontier AI framework into public-sector crisis management protocols and intervention thresholds.
+
+**Supervised Program for Alignment Research (SPAR)**, Co-Mentor for the Fall 2026 project *Assessing Taiwan's Global Position for Transformative AI*.
+
+**Yale University**, Graduate Teaching Fellow for the course "Artificial Intelligence, Emerging Technologies, and National Power."
+
+I also collaborate with researchers at OpenAI on a policy paper evaluating global frameworks for advanced AI access and compute governance.
 
 ---
 
-## Technical Skills
-* **Programming Languages:** Python, R, SQL, C++, Java, LaTeX
-* **Machine Learning & AI Tools:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, LangChain, Triton
-* **Data Engineering & DevOps:** Kubernetes, Docker, Kafka, PostgreSQL, Elasticsearch
-* **Spoken Languages:** Mandarin Chinese (Fluent), Russian (Proficient)
+## Background
+
+Before Yale I spent several years as a data scientist and machine learning engineer working on artificial intelligence in the U.S. national security community. That work centered on AI assurance, including adversarial testing and alignment evaluation of Mandarin-language models, alongside production natural language processing and computer vision systems built in Python and PyTorch. 
+
+I hold a B.A. with honors in Quantitative Social Science from Dartmouth College
+
+I straddle this strange world of geopolitical policy advising with full stack technical work on AI. I work in Python, R, and SQL, with PyTorch, Hugging Face Transformers, and the usual distributed data tooling, and I can read Chinese and speak Mandarin fluently.
 
 ---
 

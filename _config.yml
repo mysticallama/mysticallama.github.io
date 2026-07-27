@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kevin Chen | Portfolio"
+title                    : "Kevin Chen's Portfolio"
 title_separator          : "-"
 name                     : &name "Kevin Chen"
 description              : &description "Kevin Chen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5965-279X"
   semantic         : # URL
-  ssrn             : # URL
+  ssrn             : # URLv
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
