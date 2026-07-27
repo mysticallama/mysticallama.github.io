@@ -28,19 +28,15 @@ Across all three I have grown more concerned about epistemic security than about
 
 ## Current Affiliations
 
-**Centre for the Governance of AI (GovAI)**, Summer Research Fellow, where I am building an empirical framework for measuring how reliably auditor models detect misaligned behavior as interaction horizons lengthen, benchmarked across Western frontier models and regional open-weight architectures.
-
-**Council on Foreign Relations**, Graduate Research Assistant to Adjunct Senior Fellow Gordon Goldstein, supporting an upcoming project on recursive self-improvement and international security.
-
-**Doublethink Lab**, Research Collaborator on foreign information manipulation and interference in the Taiwan Strait, including an in-person data sprint in Taipei this autumn.
-
-**California Governor's Office of Emergency Services**, Research Collaborator, translating the state's SB 53 frontier AI framework into public-sector crisis management protocols and intervention thresholds.
-
-**Supervised Program for Alignment Research (SPAR)**, Co-Mentor for the Fall 2026 project *Assessing Taiwan's Global Position for Transformative AI*.
-
-**Yale University**, Graduate Teaching Fellow for the course "Artificial Intelligence, Emerging Technologies, and National Power."
-
-I also collaborate with researchers at OpenAI on a policy paper evaluating global frameworks for advanced AI access and compute governance.
+| Organization | Role | Focus |
+|---|---|---|
+| Centre for the Governance of AI (GovAI) | Summer Research Fellow | Measuring how reliably auditor models detect misaligned behavior as interaction horizons lengthen, benchmarked across frontier and open-weight architectures |
+| OpenAI | Research Collaborator | Co-authoring a policy paper with OpenAI researchers on global frameworks for advanced AI access and compute governance |
+| Council on Foreign Relations | Graduate Research Assistant | Recursive self-improvement and international security, working with Adjunct Senior Fellow Gordon Goldstein |
+| Doublethink Lab | Research Collaborator | Foreign information manipulation and interference in the Taiwan Strait, including an October data sprint in Taipei |
+| California Governor's Office of Emergency Services | Research Collaborator | Translating the state's SB 53 frontier AI framework into public-sector crisis management protocols and intervention thresholds |
+| Supervised Program for Alignment Research (SPAR) | Co-Mentor | *Assessing Taiwan's Global Position for Transformative AI*, Fall 2026 |
+| Yale University | Graduate Teaching Fellow | Artificial Intelligence, Emerging Technologies, and National Power |
 
 ---
 
