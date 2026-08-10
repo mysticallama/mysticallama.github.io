@@ -1,12 +1,24 @@
 ---
-layout: archive
+layout: portfolio
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
 ---
 
-{% include base_path %}
+<h1>Teaching</h1>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<p>I serve as a graduate teaching fellow at the Yale Jackson School of Global Affairs. The students coming through Yale's courses on intelligence and on AI and national power will be making consequential decisions before the technology settles, and helping them get fluent in both the systems and the statecraft is the most useful thing I do.</p>
+
+<div class="writings-list">
+{% assign courses = site.teaching | sort: 'date' | reverse %}
+{% for course in courses %}
+  <div class="writing-item">
+    <h3>{{ course.title }}</h3>
+    <p class="item-meta">
+      {% assign m = course.date | date: "%m" %}
+      <span class="term">{% if m == "01" %}Spring{% elsif m == "09" %}Fall{% else %}{{ course.date | date: "%B" }}{% endif %} {{ course.date | date: "%Y" }}</span>
+      · {{ course.type }} · {{ course.venue }}
+    </p>
+    {{ course.content }}
+  </div>
 {% endfor %}
+</div>

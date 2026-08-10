@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:benzevenbergen.com)",
+      "Bash(curl -s https://benzevenbergen.com/)",
+      "Bash(curl -s https://benzevenbergen.com/styles/custom-style.css)",
+      "Bash(docker compose *)",
+      "Bash(curl -s -o /dev/null -w '%{http_code}' http://localhost:4000/assets/css/portfolio.css)",
+      "Bash(echo \"CSS: $\\(curl -s -o /dev/null -w '%{http_code}' http://localhost:4000/assets/css/portfolio.css\\)\")",
+      "Bash(curl -s -o /dev/null -w '%{http_code}' http://localhost:4000/images/profile.jpg)",
+      "Bash(echo \"Profile img: $\\(curl -s -o /dev/null -w '%{http_code}' http://localhost:4000/images/profile.jpg\\)\")",
+      "Bash(curl -s http://localhost:4000/teaching/)",
+      "Bash(curl -s http://localhost:4000/research/)"
+    ]
+  }
+}
