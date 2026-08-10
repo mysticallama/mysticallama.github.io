@@ -10,11 +10,11 @@ My interests run wider than my published work, and I'm always glad to hear from 
 
 ## Compute and hardware governance
 
-I examine technical verification mechanisms for international access frameworks and the trade-offs created by open-weight model release. This is currently a policy paper in progress with researchers at OpenAI.
+I examine technical verification mechanisms for international access frameworks and the trade-offs created by open-weight model release. Big things cooking here that will be announced soon! 
 
 ## AI-enabled information manipulation
 
-The subject of my thesis at Yale: using multilingual natural language processing to identify coordinated inauthentic behavior. The project culminates in an October research visit to Taipei with Doublethink Lab and Taiwan AI Labs. It also shapes the SPAR project I'm co-mentoring this fall on Taiwan's position under transformative AI.
+The subject of my thesis at Yale where I'm using multilingual natural language processing to identify coordinated inauthentic behavior in Taiwan. The project culminates in an October research visit to Taipei with Doublethink Lab and Taiwan AI Labs. It also shapes the SPAR project I'm co-mentoring this fall on Taiwan's position under transformative AI.
 
 ## Evaluation and auditing of frontier models in agentic settings
 

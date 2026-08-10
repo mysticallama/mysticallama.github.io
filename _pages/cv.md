@@ -14,8 +14,8 @@ redirect_from:
 
 ## Education
 
-- **M.P.P., Yale University** — Jackson School of Global Affairs, [expected year]. Schmidt Program on Artificial Intelligence, Emerging Technologies, and National Power.
-- **B.A. with honors, Quantitative Social Science, Dartmouth College** — [year]
+- **M.P.P., Yale University** — Jackson School of Global Affairs, 2027. Schmidt Program on Artificial Intelligence, Emerging Technologies, and National Power.
+- **B.A. with honors, Quantitative Social Science, Dartmouth College** — 2022
 
 ## Experience
 
@@ -24,7 +24,7 @@ redirect_from:
 - **Council on Foreign Relations** — Graduate Research Assistant. Recursive self-improvement and international security.
 - **Doublethink Lab** — Research Collaborator. Foreign information manipulation and interference in the Taiwan Strait.
 - **California Governor's Office of Emergency Services** — Research Collaborator. Translating the SB 53 frontier AI framework into crisis management protocols.
-- **[Prior role], U.S. national security community** — Data scientist / machine learning engineer, [years]. AI assurance, adversarial testing and alignment evaluation of Mandarin-language models, production NLP and computer vision systems.
+- **Data Scientist, U.S. intelligence community** — Data scientist / machine learning engineer, [3]. AI assurance, adversarial testing and alignment evaluation of Mandarin-language models, production NLP and computer vision systems.
 
 ## Teaching
 
