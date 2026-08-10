@@ -14,6 +14,10 @@ I kind of straddled both worlds in AI policy between the people who build fronti
 
 → The [Research page](/research/) sets out the three streams of my current work.
 
+→ The [Writing page](/writing/) collects my public writing as it lands.
+
+→ The [Speaking page](/speaking/) tracks talks, panels, and guest lectures.
+
 → The [Teaching page](/teaching/) covers the Yale courses I help teach.
 
 ## What am I up to now?

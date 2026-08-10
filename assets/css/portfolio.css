@@ -220,6 +220,14 @@ body {
 
 .writing-item h3 { margin: 0 0 6px 0; font-size: 1.25rem; }
 
+.writing-item h3 a {
+  color: var(--ink);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.writing-item h3 a:hover { color: var(--green); }
+
 .writing-item .item-meta {
   font-size: 0.9rem;
   color: var(--muted);
