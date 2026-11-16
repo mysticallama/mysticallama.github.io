@@ -56,8 +56,6 @@ Before graduate school I was a data scientist in the U.S. public sector, working
   <li><span class="when">06/2026</span><span class="what">Speaker, Assessing the Global Security Risks of Recursive Self-Improvement. Council on Foreign Relations Roundtable Series on Technology, Innovation, and American Primacy.</span></li>
 </ul>
 
-<p>If you'd like me to speak to your class or event, <a href="mailto:kevin.chen.kc2593@yale.edu">send me an email</a>.</p>
-
 <hr>
 
 <h3 id="teaching">Teaching</h3>
