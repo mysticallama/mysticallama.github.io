@@ -14,7 +14,7 @@ I'm Kevin, a Master in Public Policy candidate at the [Yale Jackson School of Gl
 
 My research is on epistemic risk. Governments are starting to lean on AI to draft, summarize and analyze, and that reliance is becoming structural before anyone has worked out how to check it. I want to understand what this does to how national security institutions know things, with a regional focus on U.S.-China competition and Taiwan. On the technical side I study latent biases in frontier models and how those models can steer the conclusions of the analysts who use them.
 
-Before graduate school I was a data scientist and machine learning engineer at the CIA's Directorate of Digital Innovation, and before that a data analyst at the FBI. I studied Quantitative Social Science at Dartmouth.
+Before graduate school I was a data scientist in the U.S. public sector, working on national security issues in the Pacific. I studied Quantitative Social Science at Dartmouth.
 
 </div>
 
@@ -23,7 +23,7 @@ Before graduate school I was a data scientist and machine learning engineer at t
 <h3 id="now">What I'm working on</h3>
 
 - As an AI Safety Policy Entrepreneurship Fellow at the [Federation of American Scientists](https://fas.org/), I'm building an open protocol for evaluating geopolitical bias in frontier models used in intelligence analysis.
-- At Augur, I'm working with founder Nikhil Mulani on how governments should design AI decision support for diplomatic negotiation and public resource allocation.
+- At [Augur](https://augurai.net/), I'm working with founder Nikhil Mulani on how governments should design AI decision support for diplomatic negotiation and public resource allocation.
 - I'm a graduate research assistant to Gordon Goldstein at the [Council on Foreign Relations](https://www.cfr.org/), supporting his forthcoming book on artificial intelligence and international security.
 - My work from this summer's fellowship at the [Centre for the Governance of AI](https://www.governance.ai/) continues: an audit of whether frontier models steer multi-turn negotiations toward particular states' interests.
 - My master's thesis, written in partnership with [Doublethink Lab](https://doublethinklab.org/), looks at AI-assisted cognitive warfare across the Taiwan Strait.
