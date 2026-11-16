@@ -2,19 +2,28 @@
 # date: shown as-is (MM/YYYY). text: markdown, links allowed.
 
 - date: "11/2026"
-  text: "My paper with researchers at OpenAI, *Access to Generative AI: Privilege or Right?*, is out in *Lawfare*."
+  text: "*Access to Generative AI: Privilege or Right?*, my paper with Ziad Reslan and Kim Malfacini of OpenAI, is out in *Lawfare*."
 
 - date: "11/2026"
-  text: "Spoke on a panel on AI and radicalization at DePaul College of Law in Chicago."
+  text: "Spoke on a panel on AI and radicalization at DePaul University College of Law."
 
 - date: "10/2026"
-  text: "Joined Augur as a part-time researcher on AI for negotiation and national security decision support."
+  text: "Joined Augur as a researcher, working with founder Nikhil Mulani on AI decision support for governments."
 
 - date: "10/2026"
-  text: "Spent a week in Taipei working with [Doublethink Lab](https://doublethinklab.org/) and Taiwan AI Labs, and gave a talk for NTU AI Safety."
+  text: "Presented my paper on Taiwan's civil service reforms at the Guarding the Guardrails workshop at Harvard Kennedy School."
 
 - date: "10/2026"
-  text: "*Lessons from CIFA and the Path Forward*, with Erik Yost and Maya White, was accepted for journal publication."
+  text: "Ran a data sprint and research workshop in Taipei with [Doublethink Lab](https://doublethinklab.org/)."
 
-- date: "11/2025"
-  text: "My essay on rare earth supply chains for US autonomous systems was a [CNAS Pathfinder finalist](https://breakingdefense.com/2025/11/vertical-integration-of-rare-earth-elements-for-us-autonomous-dominion/) and ran in *Breaking Defense*."
+- date: "09/2026"
+  text: "Started the [Federation of American Scientists](https://fas.org/) AI Safety Policy Entrepreneurship Fellowship."
+
+- date: "06/2026"
+  text: "Spoke at the Council on Foreign Relations roundtable on the global security risks of recursive self-improvement."
+
+- date: "06/2026"
+  text: "Began a summer research fellowship at the [Centre for the Governance of AI](https://www.governance.ai/) in London."
+
+- date: "02/2026"
+  text: "My TechNatSec paper on geospatial AI for infrastructure monitoring was a national winner in the MIT–Harvard Technology & National Security paper competition."
